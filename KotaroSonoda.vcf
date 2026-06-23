@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:20260623T111200Z
+N:SONODA;Kotaro;（薗田 光太郎）;Ph.D.;
+FN:Christian Prather
+BDAY:19760519
+GENDER:M
+TZ:+09:00
+ORG:長崎大学;病院;医療情報部
+ADR;TYPE=work:;;坂本1丁目7番1号;長崎市;長崎県;852-8501;日本
+LABEL;TYPE=WORK:長崎県長崎市坂本1-7-1\n
+長崎大学病院 外来棟1F 事務部 医事課 医療情報管理室
+TITLE:准教授
+TEL;TYPE=CELL:+818031480596
+TEL;TYPE=WORK:+810958198546
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:kotaro@nagasaki-u.ac.jp
+URL;TYPE=Digital Business Card:https://helmenov.github.io/KotaroSonoda.vcf
+URL:
+URL;TYPE=GitHub:https://github.com/helmenov/
+KEY;mediatype=application/pgp-keys:https://www.github.com/helmenov.gpg
+END:VCARD
