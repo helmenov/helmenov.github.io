@@ -17,6 +17,9 @@ TEL;TYPE=WORK:https://teams.microsoft.com/l/call/0/0?users=aa83988848@ms.nagasak
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:kotaro@nagasaki-u.ac.jp
+EMAIL;TYPE=IEEE:Kotaro.Sonoda.JP@ieee.org
+EMAIL;TYPE=SECRET:kotaro.sonoda.jp@tutamail.com
+EMAIL;TYPE=HOME:kotaro.sonoda.jp@pxdmail.net
 URL;TYPE=Digital Business Card:https://helmenov.github.io/vCard/KotaroSonoda.vcf
 URL;TYPE=GitHub:https://github.com/helmenov/
 KEY;mediatype=application/pgp-keys:https://www.github.com/helmenov.gpg
