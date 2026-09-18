@@ -13,7 +13,7 @@ LABEL;TYPE=WORK:長崎県長崎市坂本1-7-1\n
 TITLE:准教授
 TEL;TYPE=CELL:+818031480596
 TEL;TYPE=WORK:+810958198546
-TEL;TYPE=WORK:https://teams.microsoft.com/l/call/0/0?users=aa83988848@ms.nagasaki-u.ac.jp
+URL;TYPE=TeamsCall:https://teams.microsoft.com/l/call/0/0?users=aa83988848@ms.nagasaki-u.ac.jp
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:kotaro@nagasaki-u.ac.jp
